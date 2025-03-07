@@ -9,11 +9,14 @@
   "include": [
     // Include the root directory
     "server",
-    // Include the specific file from the admin folder
-    "admin/src/pluginId.js",
     // Force the JSON files in the src folder to be included
     "server/**/*.json",
     "custom.d.ts"
+  ],
+
+  "files": [
+    // Include the specific file from the admin folder
+    "admin/src/pluginId.js"
   ],
 
   "exclude": [
