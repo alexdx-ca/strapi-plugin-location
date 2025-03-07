@@ -26,7 +26,7 @@
   "scripts": {
     "develop": "NODE_ENV=development tsc -p tsconfig.server.json -w",
     "build": "tsc -p tsconfig.server.json",
-    "build:admin": "strapi build --clean",
+    "build:admin": "strapi build",
     "prepare": "npm run build && npm run build:admin",
     "postinstall": "npm run prepare"
   },
