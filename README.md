@@ -106,6 +106,7 @@ If you're interested in helping us, you would be a rock  ⭐.
 The main star: **Dominik Míček** https://github.com/Ballonek <br>
 Original Maintainer: **Ondřej Mikulčík** https://github.com/omikulcik <br>
 Active Maintainer: **Ondřej Mikulčík** https://github.com/dominik-juriga <br>
+Contributor: **Alex Derkach** https://github.com/alexdx-ca <br>
 Project owner: **Ondřej Janošík** <br>
 
 Wanna be here? Open an issue (and solve it), PR or share improvement idea and you will become a listed contributor.
