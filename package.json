@@ -25,9 +25,7 @@
   "scripts": {
     "develop": "NODE_ENV=development tsc -p tsconfig.server.json -w",
     "build": "tsc -p tsconfig.server.json",
-    "build:admin": "strapi build",
-    "prepare": "npm run build && npm run build:admin",
-    "postinstall": "yarn build && yarn build:admin"
+    "prepare": "npm run build"
   },
   "dependencies": {
     "@strapi/design-system": "^1.19.0",
