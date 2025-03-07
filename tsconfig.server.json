@@ -16,7 +16,7 @@
 
   "files": [
     // Include the specific file from the admin folder
-    "admin/src/pluginId.js"
+    "admin/src/pluginId.ts"
   ],
 
   "exclude": [
